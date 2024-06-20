@@ -1,4 +1,4 @@
 # Frepa
 ## Datasets
 ### 
-![image](https://github.com/Arturia-Pendragon-Iris/Frepa/blob/main/fig/dataset.png){width: 20%;}
+<img src="https://github.com/Arturia-Pendragon-Iris/Frepa/blob/main/fig/dataset.png" alt="image" width="20%">
