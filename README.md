@@ -5,6 +5,8 @@ This is the summary of the datasets we employed for model pretraining, and their
 Public datasets involved in the pretraining are listed as follows:
 
 ### X-ray
-CheXpert [link](https://stanfordmlgroup.github.io/competitions/chexpert/)
-MIMIC-CXR [link](https://physionet.org/content/mimic-cxr/2.0.0/)
-NIH Chest [link] (https://www.kaggle.com/datasets/nih-chest-xrays/data)
+[CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/)
+
+[MIMIC-CXR](https://physionet.org/content/mimic-cxr/2.0.0/)
+
+[NIH Chest](https://www.kaggle.com/datasets/nih-chest-xrays/data)
