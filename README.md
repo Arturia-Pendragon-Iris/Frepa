@@ -8,6 +8,11 @@ Example results of reconstructed images on external datasets. The images are cor
 This is the summary of the datasets we employed for model pretraining, and their distribution of involved modalities.
 Public datasets involved in the pretraining are listed as follows:
 
+| Modality      | Datasets  |
+| ----------- | ----------- |
+| CT     | [DeepLesion](https://nihcc.app.box.com/v/DeepLesion); [Colorectal-Liver-Metastases](https://www.cancerimagingarchive.net/collection/colorectal-liver-metastases/); [RSNA Intracranial Hemorrhage](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/data); [CQ500](http://headctstudy.qure.ai/dataset); [TCIA HCC-TACE](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230229)       |
+| Paragraph   | Text        |
+
 **CT:**
 [DeepLesion](https://nihcc.app.box.com/v/DeepLesion); [Colorectal-Liver-Metastases](https://www.cancerimagingarchive.net/collection/colorectal-liver-metastases/); [RSNA Intracranial Hemorrhage](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/data); [CQ500](http://headctstudy.qure.ai/dataset); [TCIA HCC-TACE](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230229)
 
