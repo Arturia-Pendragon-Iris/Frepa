@@ -1,8 +1,4 @@
 # Frepa
-## Visualization
-<img src="https://github.com/Arturia-Pendragon-Iris/Frepa/blob/main/fig/restore.png">
-Example results of reconstructed images on external datasets. The images are corrupted by random masking and low-frequency filtering, respectively. Notably, such low-frequency filtered images are not seen during the training phases of Frepa. We visualize both the images and their frequency spectrum. RMAE is shown in the upper left corner of each image. Zoom in to an appropriate size for better viewing of the images.
-
 ## Datasets 
 <img src="https://github.com/Arturia-Pendragon-Iris/Frepa/blob/main/fig/dataset.png" alt="image" style="width: 50%; height: auto;">
 This is the summary of the datasets we employed for model pretraining, and their distribution of involved modalities.
@@ -17,4 +13,13 @@ Public datasets involved in the pretraining are listed as follows:
 |Retina  |[ODIR-5K](https://odir2019.grand-challenge.org/dataset/); [AREDS](https://areds.org/); [Diabetic Retinopathy Detection](https://www.kaggle.com/c/diabetic-retinopathy-detection/data)  |
 |Dermoscopy|[ISIC](https://challenge.isic-archive.com/data/)|
 
+## Pretrained models
+| Model      | Pretrained checkpoints | Parameters|
+| -----------| -----------------------|-----------|
+| ViT-B      | ----------             |86.9M      |
+| Swin Transformer-B      | ----------             |86.9M      |
+
+## Visualization
+<img src="https://github.com/Arturia-Pendragon-Iris/Frepa/blob/main/fig/restore.png">
+Example results of reconstructed images on external datasets. The images are corrupted by random masking and low-frequency filtering, respectively. Notably, such low-frequency filtered images are not seen during the training phases of Frepa. We visualize both the images and their frequency spectrum. RMAE is shown in the upper left corner of each image. Zoom in to an appropriate size for better viewing of the images.
 
