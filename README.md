@@ -1,6 +1,6 @@
 # Frepa
 ## Visualization
-<img src="https://github.com/Arturia-Pendragon-Iris/Frepa/blob/main/fig/restore.png" alt="image" height: auto;">
+<img src="https://github.com/Arturia-Pendragon-Iris/Frepa/blob/main/fig/restore.png">
 
 ## Datasets 
 <img src="https://github.com/Arturia-Pendragon-Iris/Frepa/blob/main/fig/dataset.png" alt="image" style="width: 50%; height: auto;">
