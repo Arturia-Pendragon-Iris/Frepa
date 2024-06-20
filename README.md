@@ -3,8 +3,8 @@
 ## Pretrained models
 | Model      | Pretrained checkpoints | Parameters|
 | -----------| -----------------------|-----------|
-| ViT-B      | ----------             |86.9M      |
-| Swin Transformer-B      | ----------             |86.9M      |
+| ViT-B      | [download](https://drive.google.com/file/d/184NT0mM_dNjU2euQ1vzqukGN7YDcqlLd/view?usp=sharing)  |86.9M      |
+| Swin Transformer-B      |[download](https://drive.google.com/file/d/1-7y1yU9pwrl9W2deVx0iY2e2PiqH115c/view?usp=sharing)  |86.9M      |
 
 ## Datasets 
 <img src="https://github.com/Arturia-Pendragon-Iris/Frepa/blob/main/fig/dataset.png" alt="image" style="width: 50%; height: auto;">
