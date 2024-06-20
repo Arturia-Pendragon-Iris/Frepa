@@ -1,4 +1,7 @@
 # Frepa
+## Visualization
+<img src="https://github.com/Arturia-Pendragon-Iris/Frepa/blob/main/fig/restore.png" alt="image" height: auto;">
+
 ## Datasets 
 <img src="https://github.com/Arturia-Pendragon-Iris/Frepa/blob/main/fig/dataset.png" alt="image" style="width: 50%; height: auto;">
 This is the summary of the datasets we employed for model pretraining, and their distribution of involved modalities.
