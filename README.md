@@ -50,3 +50,6 @@ Public datasets involved in the pretraining are listed as follows:
 ## Visualization
 <img src="https://github.com/Arturia-Pendragon-Iris/Frepa/blob/main/fig/restore.png">
 Example results of reconstructed images on external datasets. The images are corrupted by random masking and low-frequency filtering, respectively. Notably, such low-frequency filtered images are not seen during the training phases of Frepa. We visualize both the images and their frequency spectrum. RMAE is shown in the upper left corner of each image. Zoom in to an appropriate size for better viewing of the images.
+
+## Acknowledge
+We acknowledge the released code of [MedSAM](https://github.com/bowang-lab/MedSAM) and [MAE](https://github.com/pengzhiliang/MAE-pytorch) for code references. If you have any problem, please get in touch with Yuetan Chu (yuetan.chu@kaust.edu.sa) or Yilan Zhang(yilan.zhang@kaust.edu.sa) for more information. 
