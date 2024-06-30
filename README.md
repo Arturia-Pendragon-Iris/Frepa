@@ -22,7 +22,7 @@ Frepa achieves substantial success in various tasks, including vessel segmentati
 | Swin Transformer-B      |[download](https://drive.google.com/file/d/1-7y1yU9pwrl9W2deVx0iY2e2PiqH115c/view?usp=sharing)  |86.9M      |
 
 ## Extra experiments on image restoration
-|                |         | MAE              | MFM              | CLIP             | SAM              | Frepa±ViT        | Frepa±SwinT      |
+|                |         | MAE              | MFM              | CLIP             | SAM              | Frepa+ViT        | Frepa+SwinT      |
 |----------------|---------|------------------|------------------|------------------|------------------|------------------|------------------|
 | **CT denoise** | PSNR    | 30.412±2.501     | 28.152±2.752     | 14.102±1.478     | 21.230±3.093     | 31.625±2.539     | 32.700±1.722     |
 |                | SSIM    | 0.801±0.153      | 0.907±0.024      | 0.370±0.158      | 0.787±0.154      | 0.936±0.032      | 0.954±0.015      |
