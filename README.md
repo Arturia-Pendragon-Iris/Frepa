@@ -1,5 +1,5 @@
 # Frepa
-
+This is the official repository for the paper "Improving Representation of High-frequency Components for Medical Foundation Models" by Yuetan Chu, Yilan Zhang, Zhongyi Han, Changchun Yang, Longxi Zhou, Gongning Luo, Xin Gao.
 ## Introduction
 Frepa is proposed to address the limitations of previous medical foundation models in representing fine-grained information and high-frequency components. Frepa demonstrates that even when using a vanilla Vision Transformer (ViT), foundation models can learn more fine-grained representations through a frequency dual-component masking strategy. Additionally, the equal-histogram image-domain masking extends the Masked Autoencoder (MAE) beyond ViT to other architectures, such as scale-feature networks (e.g., Swin Transformer) and convolutional networks, without requiring modifications to the pretraining pipeline.
 
@@ -53,3 +53,16 @@ Example results of reconstructed images on external datasets. The images are cor
 
 ## Acknowledge
 We acknowledge the released code of [MedSAM](https://github.com/bowang-lab/MedSAM) and [MAE](https://github.com/pengzhiliang/MAE-pytorch) for code references. If you have any problem, please get in touch with Yuetan Chu (yuetan.chu@kaust.edu.sa) or Yilan Zhang(yilan.zhang@kaust.edu.sa) for more information. 
+
+# Cite
+```
+@misc{chu2024improvingrepresentationhighfrequencycomponents,
+      title={Improving Representation of High-frequency Components for Medical Foundation Models}, 
+      author={Yuetan Chu and Yilan Zhang and Zhongyi Han and Changchun Yang and Longxi Zhou and Gongning Luo and Xin Gao},
+      year={2024},
+      eprint={2407.14651},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2407.14651}, 
+}
+```
