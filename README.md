@@ -33,7 +33,6 @@ Frepa achieves substantial success in various tasks, including vessel segmentati
 
 
 ## Datasets 
-<img src="https://github.com/Arturia-Pendragon-Iris/Frepa/blob/main/fig/dataset.png" alt="image" style="width: 50%; height: auto;">
 This is the summary of the datasets we employed for model pretraining, and their distribution of involved modalities.
 Public datasets involved in the pretraining are listed as follows:
 
