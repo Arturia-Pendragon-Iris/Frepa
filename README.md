@@ -1,5 +1,5 @@
 # Frepa
-This is the official repository for the paper "Improving Representation of High-frequency Components for Medical Foundation Models" by Yuetan Chu, Yilan Zhang, Zhongyi Han, Changchun Yang, Longxi Zhou, Gongning Luo, Xin Gao.
+This is the official repository for the paper "Improving Representation of High-frequency Components for Medical Foundation Models" by Yuetan Chu, Yilan Zhang, Zhongyi Han, Changchun Yang, Longxi Zhou, Gongning Luo, Chao Huang, Xin Gao.
 ## Introduction
 Frepa is proposed to address the limitations of previous medical foundation models in representing fine-grained information and high-frequency components. Frepa demonstrates that even when using a vanilla Vision Transformer (ViT), foundation models can learn more fine-grained representations through a frequency dual-component masking strategy. Additionally, the equal-histogram image-domain masking extends the Masked Autoencoder (MAE) beyond ViT to other architectures, such as scale-feature networks (e.g., Swin Transformer) and convolutional networks, without requiring modifications to the pretraining pipeline.
 
@@ -20,6 +20,7 @@ Frepa achieves substantial success in various tasks, including vessel segmentati
 | -----------| -----------------------|-----------|
 | ViT-B      | [download](https://drive.google.com/file/d/184NT0mM_dNjU2euQ1vzqukGN7YDcqlLd/view?usp=sharing)  |86.9M      |
 | Swin Transformer-B      |[download](https://drive.google.com/file/d/1-7y1yU9pwrl9W2deVx0iY2e2PiqH115c/view?usp=sharing)  |86.9M      |
+| ConvNeXt   |[download](https://drive.google.com/file/d/1if2oL5EyDP82g6SR9dU7_TZtpi8Qzx6T/view?usp=sharing)  |87.5M      |
 
 ## Extra experiments on image restoration
 |                |         | MAE              | MFM              | CLIP             | SAM              | Frepa+ViT        | Frepa+SwinT      |
