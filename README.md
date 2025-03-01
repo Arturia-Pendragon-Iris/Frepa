@@ -13,7 +13,7 @@ Frepa achieves substantial success in various tasks, including vessel segmentati
 
 * Extensive experiments demonstrate that Frepa outperforms SOTA methods on most downstream tasks, particularly those involving fine-grained information. Frepa also exhibits exceptional performance on previously unseen modalities.
 
-<img src="https://github.com/Arturia-Pendragon-Iris/Frepa/blob/main/fig/main_figure.png" alt="image">
+<img src="https://github.com/Arturia-Pendragon-Iris/Frepa/blob/main/fig/main_figure_2.png" alt="image">
 
 ## Pretrained models
 | Model      | Pretrained checkpoints | Parameters|
