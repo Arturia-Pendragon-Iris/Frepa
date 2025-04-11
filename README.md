@@ -24,6 +24,8 @@ Frepa achieves substantial success in various tasks, including vessel segmentati
 | ConvNeXt   |[download](https://drive.google.com/file/d/1if2oL5EyDP82g6SR9dU7_TZtpi8Qzx6T/view?usp=sharing)  |87.5M      |
 
 ## Extra experiments on image restoration
+Besides all the experiments presented in the paper, we also implement experiments about the pretrained model for image restoration. The results are as follows.
+
 |                |         | MAE              | MFM              | CLIP             | SAM              | Frepa+ViT        | Frepa+SwinT      |
 |----------------|---------|------------------|------------------|------------------|------------------|------------------|------------------|
 | **CT denoise** | PSNR    | 30.412±2.501     | 28.152±2.752     | 14.102±1.478     | 21.230±3.093     | 31.625±2.539     | 32.700±1.722     |
