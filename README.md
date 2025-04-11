@@ -1,7 +1,5 @@
 # Frepa
-This is the official repository for the paper "Improving Representation of High-frequency Components for Medical Foundation Models" by Yuetan Chu, Yilan Zhang, Zhongyi Han, Changchun Yang, Longxi Zhou, Gongning Luo, Chao Huang, Xin Gao.
-
-We are pleased that our paper has been accepted for IEEE Transactions on Medical Imaging!!!!! We will update the paper and the citation as soon as its publication.
+This is the official repository for the paper "Improving Representation of High-frequency Components for Medical Foundation Models" by Yuetan Chu, Yilan Zhang, Zhongyi Han, Changchun Yang, Longxi Zhou, Gongning Luo, Chao Huang, Xin Gao. You can access the whole paper through the [link](https://ieeexplore.ieee.org/document/10960415).
 
 ## Introduction
 Frepa is proposed to address the limitations of previous medical foundation models in representing fine-grained information and high-frequency components. Frepa demonstrates that even when using a vanilla Vision Transformer (ViT), foundation models can learn more fine-grained representations through a frequency dual-component masking strategy. Additionally, the equal-histogram image-domain masking extends the Masked Autoencoder (MAE) beyond ViT to other architectures, such as scale-feature networks (e.g., Swin Transformer) and convolutional networks, without requiring modifications to the pretraining pipeline.
@@ -58,14 +56,16 @@ Example results of reconstructed images on external datasets. The images are cor
 We acknowledge the released code of [MedSAM](https://github.com/bowang-lab/MedSAM) and [MAE](https://github.com/pengzhiliang/MAE-pytorch) for code references. If you have any problem, please get in touch with Yuetan Chu (yuetan.chu@kaust.edu.sa) or Yilan Zhang(yilan.zhang@kaust.edu.sa) for more information. 
 
 # Cite
+If you find our paper or code helpful, we would like you to cite our paper as follows.
 ```
-@misc{chu2024improvingrepresentationhighfrequencycomponents,
-      title={Improving Representation of High-frequency Components for Medical Foundation Models}, 
-      author={Yuetan Chu and Yilan Zhang and Zhongyi Han and Changchun Yang and Longxi Zhou and Gongning Luo and Xin Gao},
-      year={2024},
-      eprint={2407.14651},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV},
-      url={https://arxiv.org/abs/2407.14651}, 
-}
+@ARTICLE{10960415,
+  author={Chu, Yuetan and Zhang, Yilan and Han, Zhongyi and Yang, Changchun and Zhou, Longxi and Luo, Gongning and Huang, Chao and Gao, Xin},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={Improving Representation of High-frequency Components for Medical Visual Foundation Models}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Foundation models;Computational modeling;Image segmentation;Autoencoders;Image reconstruction;Training;Accuracy;Three-dimensional displays;Artificial intelligence;Diseases;Artificial intelligence;foundation model;autoencoder;segmentation;classification;detection},
+  doi={10.1109/TMI.2025.3559402}}
 ```
