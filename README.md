@@ -19,7 +19,7 @@ Frepa achieves substantial success in various tasks, including vessel segmentati
 ## Pretrained models
 | Model      | Pretrained checkpoints | Parameters|
 | -----------| -----------------------|-----------|
-| ViT-B      | [download](https://drive.google.com/file/d/184NT0mM_dNjU2euQ1vzqukGN7YDcqlLd/view?usp=sharing)  |86.9M      |
+| ViT-B      | [download](https://drive.google.com/file/d/1DFTxIE3XSOQCdUIGcBP8HPMQsDRDwo9W/view?usp=sharing)  |86.9M      |
 | Swin Transformer-B      |[download](https://drive.google.com/file/d/1-7y1yU9pwrl9W2deVx0iY2e2PiqH115c/view?usp=sharing)  |86.9M      |
 | ConvNeXt   |[download](https://drive.google.com/file/d/1if2oL5EyDP82g6SR9dU7_TZtpi8Qzx6T/view?usp=sharing)  |87.5M      |
 
