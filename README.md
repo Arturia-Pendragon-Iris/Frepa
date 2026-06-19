@@ -92,9 +92,6 @@ pip install torch torchvision einops monai scikit-image nibabel h5py scipy numpy
 ```
 
 The full list of tested packages is recorded in `environment.yml`.
-
-> **Note:** `timm` is **not** required. All formerly timm-dependent components (`DropPath`, `Mlp`, `PatchEmbed`) are now implemented directly in this repository.
-
 ---
 
 ## Usage
