@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Build / dist
+dist/
+build/
+*.egg-info/
+
+# Checkpoints and model weights
+*.pth
+*.pt
+*.ckpt
+checkpoint/
+
+# Data files (large binaries)
+*.h5
+*.hdf5
+*.nii
+*.nii.gz
+*.npz
+*.npy
+
+# Logs
+*.log
+runs/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
